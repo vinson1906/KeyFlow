@@ -5,11 +5,11 @@ A responsive piano-learning studio built with Next.js App Router, TypeScript, an
 ## Run locally
 
 ```bash
-pnpm install
-pnpm dev
+npm install
+npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000). To type-check the project, run `pnpm exec tsc --noEmit`.
+Open [http://localhost:3000](http://localhost:3000). To type-check the project, run `npm exec tsc --noEmit`.
 
 ## Main routes
 
